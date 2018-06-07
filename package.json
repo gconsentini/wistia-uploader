@@ -1,0 +1,30 @@
+{
+  "name": "wistia-uploader",
+  "version": "1.0.0",
+  "description": "Simple Wistia Uploader using nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "node",
+    "wistia",
+    "uploader"
+  ],
+  "author": "Gustavo Consentini",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-file-upload-node": "^2.1.0",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.2",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.2"
+  }
+}
