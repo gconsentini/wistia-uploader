@@ -1,10 +1,7 @@
 # wistia-uploader
-A simple Wistia component to upload videos using Wistia API
-
-# Live Demo (https://glacial-meadow-11123.herokuapp.com/)
-
-# nodevuejs
 A simple Wistia component to upload videos using Wistia API **NodeJS** **ExpressJS** 
+
+# Live Demo(https://glacial-meadow-11123.herokuapp.com/)
 
 ## Requirements
 
